@@ -21,8 +21,8 @@ class ineuron1:
     def students(self):
         logging.info(self.__student1)
 
-    def student_change(self, new_value):
-        self.__student1 = new_value
+    def student_change(self, new_value1):
+        self.__student1 = new_value1
 
 i = ineuron()
 i1 = ineuron1()
