@@ -1,0 +1,924 @@
+ INFO 2022-10-17 12:02:48,984   root #____________oops concept_________________
+ INFO 2022-10-17 12:02:48,984   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:02:48,984   root anuj
+ INFO 2022-10-17 12:02:48,984   root bandari
+ INFO 2022-10-17 12:02:48,984   root anuj@gmail.com
+ INFO 2022-10-17 12:02:48,985   root 1996
+ INFO 2022-10-17 12:02:48,985   root 5.9
+ INFO 2022-10-17 12:02:48,985   root 26
+ INFO 2022-10-17 12:02:48,985   root ______details of the car_____________________________
+ INFO 2022-10-17 12:02:48,985   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:02:48,985   root Force
+ INFO 2022-10-17 12:02:48,985   root Gurkha
+ INFO 2022-10-17 12:02:48,985   root 4WheelDrive
+ INFO 2022-10-17 12:02:48,985   root 14,00,00/-
+ INFO 2022-10-17 12:02:48,986   root TopEnd
+ INFO 2022-10-17 12:02:48,986   root _______information about suv car__________
+ INFO 2022-10-17 12:02:48,986   root Mahendra
+ INFO 2022-10-17 12:02:48,986   root xuv500
+ INFO 2022-10-17 12:02:48,986   root W10
+ INFO 2022-10-17 12:02:48,986   root 22,00,00/-
+ INFO 2022-10-17 12:02:48,986   root Diesel
+ INFO 2022-10-17 12:02:48,986   root _______information about suv car__________
+ INFO 2022-10-17 12:02:48,986   root Maruthi
+ INFO 2022-10-17 12:02:48,986   root ciaz
+ INFO 2022-10-17 12:02:48,986   root Alpha
+ INFO 2022-10-17 12:02:48,986   root 8,99,500
+ INFO 2022-10-17 12:02:48,986   root Petrol
+ INFO 2022-10-17 12:02:48,986   root <class 'utils.utils1.car'>
+ INFO 2022-10-17 12:02:48,986   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:02:48,986   root Mahendra xuv500
+ INFO 2022-10-17 12:02:48,986   root ---------------------------------------
+ INFO 2022-10-17 12:02:48,986   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:02:48,987   root naveen Adep
+ INFO 2022-10-17 12:02:48,988   root #____________oops concept_________________
+ INFO 2022-10-17 12:02:48,988   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:02:48,988   root anuj
+ INFO 2022-10-17 12:02:48,988   root bandari
+ INFO 2022-10-17 12:02:48,988   root anuj@gmail.com
+ INFO 2022-10-17 12:02:48,988   root 1996
+ INFO 2022-10-17 12:02:48,988   root 5.9
+ INFO 2022-10-17 12:02:48,988   root 26
+ INFO 2022-10-17 12:02:48,988   root ______details of the car_____________________________
+ INFO 2022-10-17 12:02:48,988   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:02:48,988   root Force
+ INFO 2022-10-17 12:02:48,988   root Gurkha
+ INFO 2022-10-17 12:02:48,988   root 4WheelDrive
+ INFO 2022-10-17 12:02:48,988   root 14,00,00/-
+ INFO 2022-10-17 12:02:48,989   root TopEnd
+ INFO 2022-10-17 12:02:48,989   root _______information about suv car__________
+ INFO 2022-10-17 12:02:48,989   root Mahendra
+ INFO 2022-10-17 12:02:48,989   root xuv500
+ INFO 2022-10-17 12:02:48,989   root W10
+ INFO 2022-10-17 12:02:48,989   root 22,00,00/-
+ INFO 2022-10-17 12:02:48,989   root Diesel
+ INFO 2022-10-17 12:02:48,989   root _______information about suv car__________
+ INFO 2022-10-17 12:02:48,989   root Maruthi
+ INFO 2022-10-17 12:02:48,989   root ciaz
+ INFO 2022-10-17 12:02:48,989   root Alpha
+ INFO 2022-10-17 12:02:48,989   root 8,99,500
+ INFO 2022-10-17 12:02:48,989   root Petrol
+ INFO 2022-10-17 12:02:48,989   root <class 'OOPS_SUDH.car'>
+ INFO 2022-10-17 12:02:48,989   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:02:48,989   root Mahendra xuv500
+ INFO 2022-10-17 12:02:48,989   root ---------------------------------------
+ INFO 2022-10-17 12:02:48,989   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:02:48,990   root naveen Adep
+ INFO 2022-10-17 12:02:57,452   root #____________oops concept_________________
+ INFO 2022-10-17 12:02:57,452   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:02:57,452   root anuj
+ INFO 2022-10-17 12:02:57,452   root bandari
+ INFO 2022-10-17 12:02:57,452   root anuj@gmail.com
+ INFO 2022-10-17 12:02:57,453   root 1996
+ INFO 2022-10-17 12:02:57,453   root 5.9
+ INFO 2022-10-17 12:02:57,453   root 26
+ INFO 2022-10-17 12:02:57,453   root ______details of the car_____________________________
+ INFO 2022-10-17 12:02:57,453   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:02:57,453   root Force
+ INFO 2022-10-17 12:02:57,453   root Gurkha
+ INFO 2022-10-17 12:02:57,454   root 4WheelDrive
+ INFO 2022-10-17 12:02:57,454   root 14,00,00/-
+ INFO 2022-10-17 12:02:57,454   root TopEnd
+ INFO 2022-10-17 12:02:57,454   root _______information about suv car__________
+ INFO 2022-10-17 12:02:57,455   root Mahendra
+ INFO 2022-10-17 12:02:57,455   root xuv500
+ INFO 2022-10-17 12:02:57,455   root W10
+ INFO 2022-10-17 12:02:57,455   root 22,00,00/-
+ INFO 2022-10-17 12:02:57,455   root Diesel
+ INFO 2022-10-17 12:02:57,455   root _______information about suv car__________
+ INFO 2022-10-17 12:02:57,455   root Maruthi
+ INFO 2022-10-17 12:02:57,455   root ciaz
+ INFO 2022-10-17 12:02:57,455   root Alpha
+ INFO 2022-10-17 12:02:57,455   root 8,99,500
+ INFO 2022-10-17 12:02:57,455   root Petrol
+ INFO 2022-10-17 12:02:57,455   root <class 'utils.utils1.car'>
+ INFO 2022-10-17 12:02:57,455   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:02:57,455   root Mahendra xuv500
+ INFO 2022-10-17 12:02:57,455   root ---------------------------------------
+ INFO 2022-10-17 12:02:57,455   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:02:57,455   root naveen Adep
+ INFO 2022-10-17 12:02:57,456   root #____________oops concept_________________
+ INFO 2022-10-17 12:02:57,457   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:02:57,457   root anuj
+ INFO 2022-10-17 12:02:57,457   root bandari
+ INFO 2022-10-17 12:02:57,457   root anuj@gmail.com
+ INFO 2022-10-17 12:02:57,457   root 1996
+ INFO 2022-10-17 12:02:57,457   root 5.9
+ INFO 2022-10-17 12:02:57,457   root 26
+ INFO 2022-10-17 12:02:57,457   root ______details of the car_____________________________
+ INFO 2022-10-17 12:02:57,457   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:02:57,457   root Force
+ INFO 2022-10-17 12:02:57,457   root Gurkha
+ INFO 2022-10-17 12:02:57,457   root 4WheelDrive
+ INFO 2022-10-17 12:02:57,457   root 14,00,00/-
+ INFO 2022-10-17 12:02:57,457   root TopEnd
+ INFO 2022-10-17 12:02:57,458   root _______information about suv car__________
+ INFO 2022-10-17 12:02:57,458   root Mahendra
+ INFO 2022-10-17 12:02:57,458   root xuv500
+ INFO 2022-10-17 12:02:57,458   root W10
+ INFO 2022-10-17 12:02:57,458   root 22,00,00/-
+ INFO 2022-10-17 12:02:57,458   root Diesel
+ INFO 2022-10-17 12:02:57,458   root _______information about suv car__________
+ INFO 2022-10-17 12:02:57,458   root Maruthi
+ INFO 2022-10-17 12:02:57,458   root ciaz
+ INFO 2022-10-17 12:02:57,458   root Alpha
+ INFO 2022-10-17 12:02:57,458   root 8,99,500
+ INFO 2022-10-17 12:02:57,458   root Petrol
+ INFO 2022-10-17 12:02:57,458   root <class 'OOPS_SUDH.car'>
+ INFO 2022-10-17 12:02:57,458   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:02:57,458   root Mahendra xuv500
+ INFO 2022-10-17 12:02:57,458   root ---------------------------------------
+ INFO 2022-10-17 12:02:57,458   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:02:57,458   root naveen Adep
+ INFO 2022-10-17 12:04:10,222   root #____________oops concept_________________
+ INFO 2022-10-17 12:04:10,222   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:04:10,222   root anuj
+ INFO 2022-10-17 12:04:10,222   root bandari
+ INFO 2022-10-17 12:04:10,222   root anuj@gmail.com
+ INFO 2022-10-17 12:04:10,222   root 1996
+ INFO 2022-10-17 12:04:10,222   root 5.9
+ INFO 2022-10-17 12:04:10,222   root 26
+ INFO 2022-10-17 12:04:10,222   root ______details of the car_____________________________
+ INFO 2022-10-17 12:04:10,222   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:04:10,223   root Force
+ INFO 2022-10-17 12:04:10,223   root Gurkha
+ INFO 2022-10-17 12:04:10,223   root 4WheelDrive
+ INFO 2022-10-17 12:04:10,223   root 14,00,00/-
+ INFO 2022-10-17 12:04:10,223   root TopEnd
+ INFO 2022-10-17 12:04:10,223   root _______information about suv car__________
+ INFO 2022-10-17 12:04:10,223   root Mahendra
+ INFO 2022-10-17 12:04:10,223   root xuv500
+ INFO 2022-10-17 12:04:10,223   root W10
+ INFO 2022-10-17 12:04:10,223   root 22,00,00/-
+ INFO 2022-10-17 12:04:10,223   root Diesel
+ INFO 2022-10-17 12:04:10,223   root _______information about suv car__________
+ INFO 2022-10-17 12:04:10,223   root Maruthi
+ INFO 2022-10-17 12:04:10,223   root ciaz
+ INFO 2022-10-17 12:04:10,223   root Alpha
+ INFO 2022-10-17 12:04:10,223   root 8,99,500
+ INFO 2022-10-17 12:04:10,223   root Petrol
+ INFO 2022-10-17 12:04:10,223   root <class 'utils.utils1.car'>
+ INFO 2022-10-17 12:04:10,224   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:04:10,224   root Mahendra xuv500
+ INFO 2022-10-17 12:04:10,224   root ---------------------------------------
+ INFO 2022-10-17 12:04:10,224   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:04:10,224   root naveen Adep
+ INFO 2022-10-17 12:04:10,225   root #____________oops concept_________________
+ INFO 2022-10-17 12:04:10,225   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:04:10,225   root anuj
+ INFO 2022-10-17 12:04:10,225   root bandari
+ INFO 2022-10-17 12:04:10,225   root anuj@gmail.com
+ INFO 2022-10-17 12:04:10,225   root 1996
+ INFO 2022-10-17 12:04:10,225   root 5.9
+ INFO 2022-10-17 12:04:10,225   root 26
+ INFO 2022-10-17 12:04:10,225   root ______details of the car_____________________________
+ INFO 2022-10-17 12:04:10,225   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:04:10,226   root Force
+ INFO 2022-10-17 12:04:10,226   root Gurkha
+ INFO 2022-10-17 12:04:10,226   root 4WheelDrive
+ INFO 2022-10-17 12:04:10,226   root 14,00,00/-
+ INFO 2022-10-17 12:04:10,226   root TopEnd
+ INFO 2022-10-17 12:04:10,226   root _______information about suv car__________
+ INFO 2022-10-17 12:04:10,226   root Mahendra
+ INFO 2022-10-17 12:04:10,226   root xuv500
+ INFO 2022-10-17 12:04:10,226   root W10
+ INFO 2022-10-17 12:04:10,227   root 22,00,00/-
+ INFO 2022-10-17 12:04:10,227   root Diesel
+ INFO 2022-10-17 12:04:10,228   root _______information about suv car__________
+ INFO 2022-10-17 12:04:10,228   root Maruthi
+ INFO 2022-10-17 12:04:10,228   root ciaz
+ INFO 2022-10-17 12:04:10,228   root Alpha
+ INFO 2022-10-17 12:04:10,228   root 8,99,500
+ INFO 2022-10-17 12:04:10,228   root Petrol
+ INFO 2022-10-17 12:04:10,228   root <class 'OOPS_SUDH.car'>
+ INFO 2022-10-17 12:04:10,228   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:04:10,229   root Mahendra xuv500
+ INFO 2022-10-17 12:04:10,229   root ---------------------------------------
+ INFO 2022-10-17 12:04:10,229   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:04:10,229   root naveen Adep
+ INFO 2022-10-17 12:05:10,823   root #____________oops concept_________________
+ INFO 2022-10-17 12:05:10,823   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:05:10,823   root anuj
+ INFO 2022-10-17 12:05:10,823   root bandari
+ INFO 2022-10-17 12:05:10,823   root anuj@gmail.com
+ INFO 2022-10-17 12:05:10,823   root 1996
+ INFO 2022-10-17 12:05:10,823   root 5.9
+ INFO 2022-10-17 12:05:10,823   root 26
+ INFO 2022-10-17 12:05:10,823   root ______details of the car_____________________________
+ INFO 2022-10-17 12:05:10,824   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:05:10,824   root Force
+ INFO 2022-10-17 12:05:10,824   root Gurkha
+ INFO 2022-10-17 12:05:10,824   root 4WheelDrive
+ INFO 2022-10-17 12:05:10,824   root 14,00,00/-
+ INFO 2022-10-17 12:05:10,824   root TopEnd
+ INFO 2022-10-17 12:05:10,824   root _______information about suv car__________
+ INFO 2022-10-17 12:05:10,824   root Mahendra
+ INFO 2022-10-17 12:05:10,824   root xuv500
+ INFO 2022-10-17 12:05:10,824   root W10
+ INFO 2022-10-17 12:05:10,824   root 22,00,00/-
+ INFO 2022-10-17 12:05:10,824   root Diesel
+ INFO 2022-10-17 12:05:10,824   root _______information about suv car__________
+ INFO 2022-10-17 12:05:10,824   root Maruthi
+ INFO 2022-10-17 12:05:10,824   root ciaz
+ INFO 2022-10-17 12:05:10,824   root Alpha
+ INFO 2022-10-17 12:05:10,824   root 8,99,500
+ INFO 2022-10-17 12:05:10,824   root Petrol
+ INFO 2022-10-17 12:05:10,824   root <class 'utils.utils1.car'>
+ INFO 2022-10-17 12:05:10,824   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:05:10,825   root Mahendra xuv500
+ INFO 2022-10-17 12:05:10,825   root ---------------------------------------
+ INFO 2022-10-17 12:05:10,825   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:05:10,825   root naveen Adep
+ INFO 2022-10-17 12:05:10,825   root #____________oops concept_________________
+ INFO 2022-10-17 12:05:10,826   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:05:10,826   root anuj
+ INFO 2022-10-17 12:05:10,826   root bandari
+ INFO 2022-10-17 12:05:10,826   root anuj@gmail.com
+ INFO 2022-10-17 12:05:10,826   root 1996
+ INFO 2022-10-17 12:05:10,826   root 5.9
+ INFO 2022-10-17 12:05:10,826   root 26
+ INFO 2022-10-17 12:05:10,826   root ______details of the car_____________________________
+ INFO 2022-10-17 12:05:10,826   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:05:10,826   root Force
+ INFO 2022-10-17 12:05:10,826   root Gurkha
+ INFO 2022-10-17 12:05:10,826   root 4WheelDrive
+ INFO 2022-10-17 12:05:10,826   root 14,00,00/-
+ INFO 2022-10-17 12:05:10,826   root TopEnd
+ INFO 2022-10-17 12:05:10,826   root _______information about suv car__________
+ INFO 2022-10-17 12:05:10,826   root Mahendra
+ INFO 2022-10-17 12:05:10,826   root xuv500
+ INFO 2022-10-17 12:05:10,826   root W10
+ INFO 2022-10-17 12:05:10,827   root 22,00,00/-
+ INFO 2022-10-17 12:05:10,827   root Diesel
+ INFO 2022-10-17 12:05:10,827   root _______information about suv car__________
+ INFO 2022-10-17 12:05:10,827   root Maruthi
+ INFO 2022-10-17 12:05:10,827   root ciaz
+ INFO 2022-10-17 12:05:10,827   root Alpha
+ INFO 2022-10-17 12:05:10,827   root 8,99,500
+ INFO 2022-10-17 12:05:10,827   root Petrol
+ INFO 2022-10-17 12:05:10,827   root <class 'OOPS_SUDH.car'>
+ INFO 2022-10-17 12:05:10,827   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:05:10,827   root Mahendra xuv500
+ INFO 2022-10-17 12:05:10,827   root ---------------------------------------
+ INFO 2022-10-17 12:05:10,827   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:05:10,827   root naveen Adep
+ INFO 2022-10-17 12:05:29,349   root #____________oops concept_________________
+ INFO 2022-10-17 12:05:29,349   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:05:29,349   root anuj
+ INFO 2022-10-17 12:05:29,349   root bandari
+ INFO 2022-10-17 12:05:29,349   root anuj@gmail.com
+ INFO 2022-10-17 12:05:29,349   root 1996
+ INFO 2022-10-17 12:05:29,349   root 5.9
+ INFO 2022-10-17 12:05:29,356   root 26
+ INFO 2022-10-17 12:05:29,360   root ______details of the car_____________________________
+ INFO 2022-10-17 12:05:29,401   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:05:29,403   root Force
+ INFO 2022-10-17 12:05:29,403   root Gurkha
+ INFO 2022-10-17 12:05:29,403   root 4WheelDrive
+ INFO 2022-10-17 12:05:29,403   root 14,00,00/-
+ INFO 2022-10-17 12:05:29,403   root TopEnd
+ INFO 2022-10-17 12:05:29,403   root _______information about suv car__________
+ INFO 2022-10-17 12:05:29,403   root Mahendra
+ INFO 2022-10-17 12:05:29,403   root xuv500
+ INFO 2022-10-17 12:05:29,403   root W10
+ INFO 2022-10-17 12:05:29,404   root 22,00,00/-
+ INFO 2022-10-17 12:05:29,404   root Diesel
+ INFO 2022-10-17 12:05:29,404   root _______information about suv car__________
+ INFO 2022-10-17 12:05:29,404   root Maruthi
+ INFO 2022-10-17 12:05:29,404   root ciaz
+ INFO 2022-10-17 12:05:29,404   root Alpha
+ INFO 2022-10-17 12:05:29,404   root 8,99,500
+ INFO 2022-10-17 12:05:29,404   root Petrol
+ INFO 2022-10-17 12:05:29,404   root <class 'utils.utils1.car'>
+ INFO 2022-10-17 12:05:29,404   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:05:29,404   root Mahendra xuv500
+ INFO 2022-10-17 12:05:29,404   root ---------------------------------------
+ INFO 2022-10-17 12:05:29,405   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:05:29,405   root naveen Adep
+ INFO 2022-10-17 12:05:29,406   root #____________oops concept_________________
+ INFO 2022-10-17 12:05:29,406   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:05:29,406   root anuj
+ INFO 2022-10-17 12:05:29,406   root bandari
+ INFO 2022-10-17 12:05:29,406   root anuj@gmail.com
+ INFO 2022-10-17 12:05:29,406   root 1996
+ INFO 2022-10-17 12:05:29,407   root 5.9
+ INFO 2022-10-17 12:05:29,407   root 26
+ INFO 2022-10-17 12:05:29,407   root ______details of the car_____________________________
+ INFO 2022-10-17 12:05:29,407   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:05:29,407   root Force
+ INFO 2022-10-17 12:05:29,407   root Gurkha
+ INFO 2022-10-17 12:05:29,407   root 4WheelDrive
+ INFO 2022-10-17 12:05:29,407   root 14,00,00/-
+ INFO 2022-10-17 12:05:29,407   root TopEnd
+ INFO 2022-10-17 12:05:29,407   root _______information about suv car__________
+ INFO 2022-10-17 12:05:29,407   root Mahendra
+ INFO 2022-10-17 12:05:29,407   root xuv500
+ INFO 2022-10-17 12:05:29,407   root W10
+ INFO 2022-10-17 12:05:29,407   root 22,00,00/-
+ INFO 2022-10-17 12:05:29,407   root Diesel
+ INFO 2022-10-17 12:05:29,407   root _______information about suv car__________
+ INFO 2022-10-17 12:05:29,407   root Maruthi
+ INFO 2022-10-17 12:05:29,407   root ciaz
+ INFO 2022-10-17 12:05:29,408   root Alpha
+ INFO 2022-10-17 12:05:29,408   root 8,99,500
+ INFO 2022-10-17 12:05:29,408   root Petrol
+ INFO 2022-10-17 12:05:29,408   root <class 'OOPS_SUDH.car'>
+ INFO 2022-10-17 12:05:29,408   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:05:29,408   root Mahendra xuv500
+ INFO 2022-10-17 12:05:29,408   root ---------------------------------------
+ INFO 2022-10-17 12:05:29,408   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:05:29,408   root naveen Adep
+ INFO 2022-10-17 12:07:17,199   root #____________oops concept_________________
+ INFO 2022-10-17 12:07:17,199   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:07:17,199   root anuj
+ INFO 2022-10-17 12:07:17,199   root bandari
+ INFO 2022-10-17 12:07:17,200   root anuj@gmail.com
+ INFO 2022-10-17 12:07:17,200   root 1996
+ INFO 2022-10-17 12:07:17,200   root 5.9
+ INFO 2022-10-17 12:07:17,200   root 26
+ INFO 2022-10-17 12:07:17,200   root ______details of the car_____________________________
+ INFO 2022-10-17 12:07:17,200   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:07:17,200   root Force
+ INFO 2022-10-17 12:07:17,200   root Gurkha
+ INFO 2022-10-17 12:07:17,200   root 4WheelDrive
+ INFO 2022-10-17 12:07:17,200   root 14,00,00/-
+ INFO 2022-10-17 12:07:17,200   root TopEnd
+ INFO 2022-10-17 12:07:17,200   root _______information about suv car__________
+ INFO 2022-10-17 12:07:17,200   root Mahendra
+ INFO 2022-10-17 12:07:17,200   root xuv500
+ INFO 2022-10-17 12:07:17,200   root W10
+ INFO 2022-10-17 12:07:17,200   root 22,00,00/-
+ INFO 2022-10-17 12:07:17,200   root Diesel
+ INFO 2022-10-17 12:07:17,200   root _______information about suv car__________
+ INFO 2022-10-17 12:07:17,200   root Maruthi
+ INFO 2022-10-17 12:07:17,201   root ciaz
+ INFO 2022-10-17 12:07:17,201   root Alpha
+ INFO 2022-10-17 12:07:17,201   root 8,99,500
+ INFO 2022-10-17 12:07:17,201   root Petrol
+ INFO 2022-10-17 12:07:17,201   root <class 'utils.utils1.car'>
+ INFO 2022-10-17 12:07:17,201   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:07:17,201   root Mahendra xuv500
+ INFO 2022-10-17 12:07:17,201   root ---------------------------------------
+ INFO 2022-10-17 12:07:17,201   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:07:17,201   root naveen Adep
+ INFO 2022-10-17 12:07:17,202   root #____________oops concept_________________
+ INFO 2022-10-17 12:07:17,202   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:07:17,202   root anuj
+ INFO 2022-10-17 12:07:17,202   root bandari
+ INFO 2022-10-17 12:07:17,202   root anuj@gmail.com
+ INFO 2022-10-17 12:07:17,202   root 1996
+ INFO 2022-10-17 12:07:17,202   root 5.9
+ INFO 2022-10-17 12:07:17,203   root 26
+ INFO 2022-10-17 12:07:17,203   root ______details of the car_____________________________
+ INFO 2022-10-17 12:07:17,203   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:07:17,203   root Force
+ INFO 2022-10-17 12:07:17,203   root Gurkha
+ INFO 2022-10-17 12:07:17,203   root 4WheelDrive
+ INFO 2022-10-17 12:07:17,203   root 14,00,00/-
+ INFO 2022-10-17 12:07:17,203   root TopEnd
+ INFO 2022-10-17 12:07:17,203   root _______information about suv car__________
+ INFO 2022-10-17 12:07:17,203   root Mahendra
+ INFO 2022-10-17 12:07:17,204   root xuv500
+ INFO 2022-10-17 12:07:17,204   root W10
+ INFO 2022-10-17 12:07:17,204   root 22,00,00/-
+ INFO 2022-10-17 12:07:17,204   root Diesel
+ INFO 2022-10-17 12:07:17,204   root _______information about suv car__________
+ INFO 2022-10-17 12:07:17,204   root Maruthi
+ INFO 2022-10-17 12:07:17,204   root ciaz
+ INFO 2022-10-17 12:07:17,204   root Alpha
+ INFO 2022-10-17 12:07:17,204   root 8,99,500
+ INFO 2022-10-17 12:07:17,204   root Petrol
+ INFO 2022-10-17 12:07:17,204   root <class 'OOPS_SUDH.car'>
+ INFO 2022-10-17 12:07:17,204   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:07:17,205   root Mahendra xuv500
+ INFO 2022-10-17 12:07:17,205   root ---------------------------------------
+ INFO 2022-10-17 12:07:17,205   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:07:17,205   root naveen Adep
+ INFO 2022-10-17 12:07:32,789   root #____________oops concept_________________
+ INFO 2022-10-17 12:07:32,789   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:07:32,789   root anuj
+ INFO 2022-10-17 12:07:32,789   root bandari
+ INFO 2022-10-17 12:07:32,789   root anuj@gmail.com
+ INFO 2022-10-17 12:07:32,789   root 1996
+ INFO 2022-10-17 12:07:32,789   root 5.9
+ INFO 2022-10-17 12:07:32,789   root 26
+ INFO 2022-10-17 12:07:32,789   root ______details of the car_____________________________
+ INFO 2022-10-17 12:07:32,789   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:07:32,789   root Force
+ INFO 2022-10-17 12:07:32,789   root Gurkha
+ INFO 2022-10-17 12:07:32,789   root 4WheelDrive
+ INFO 2022-10-17 12:07:32,789   root 14,00,00/-
+ INFO 2022-10-17 12:07:32,790   root TopEnd
+ INFO 2022-10-17 12:07:32,790   root _______information about suv car__________
+ INFO 2022-10-17 12:07:32,790   root Mahendra
+ INFO 2022-10-17 12:07:32,790   root xuv500
+ INFO 2022-10-17 12:07:32,790   root W10
+ INFO 2022-10-17 12:07:32,790   root 22,00,00/-
+ INFO 2022-10-17 12:07:32,790   root Diesel
+ INFO 2022-10-17 12:07:32,790   root _______information about suv car__________
+ INFO 2022-10-17 12:07:32,790   root Maruthi
+ INFO 2022-10-17 12:07:32,790   root ciaz
+ INFO 2022-10-17 12:07:32,790   root Alpha
+ INFO 2022-10-17 12:07:32,790   root 8,99,500
+ INFO 2022-10-17 12:07:32,790   root Petrol
+ INFO 2022-10-17 12:07:32,790   root <class 'utils.utils1.car'>
+ INFO 2022-10-17 12:07:32,790   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:07:32,790   root Mahendra xuv500
+ INFO 2022-10-17 12:07:32,790   root ---------------------------------------
+ INFO 2022-10-17 12:07:32,790   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:07:32,790   root naveen Adep
+ INFO 2022-10-17 12:07:32,791   root #____________oops concept_________________
+ INFO 2022-10-17 12:07:32,791   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:07:32,791   root anuj
+ INFO 2022-10-17 12:07:32,791   root bandari
+ INFO 2022-10-17 12:07:32,791   root anuj@gmail.com
+ INFO 2022-10-17 12:07:32,792   root 1996
+ INFO 2022-10-17 12:07:32,792   root 5.9
+ INFO 2022-10-17 12:07:32,792   root 26
+ INFO 2022-10-17 12:07:32,792   root ______details of the car_____________________________
+ INFO 2022-10-17 12:07:32,792   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:07:32,792   root Force
+ INFO 2022-10-17 12:07:32,792   root Gurkha
+ INFO 2022-10-17 12:07:32,792   root 4WheelDrive
+ INFO 2022-10-17 12:07:32,792   root 14,00,00/-
+ INFO 2022-10-17 12:07:32,792   root TopEnd
+ INFO 2022-10-17 12:07:32,792   root _______information about suv car__________
+ INFO 2022-10-17 12:07:32,792   root Mahendra
+ INFO 2022-10-17 12:07:32,792   root xuv500
+ INFO 2022-10-17 12:07:32,792   root W10
+ INFO 2022-10-17 12:07:32,792   root 22,00,00/-
+ INFO 2022-10-17 12:07:32,793   root Diesel
+ INFO 2022-10-17 12:07:32,793   root _______information about suv car__________
+ INFO 2022-10-17 12:07:32,793   root Maruthi
+ INFO 2022-10-17 12:07:32,793   root ciaz
+ INFO 2022-10-17 12:07:32,793   root Alpha
+ INFO 2022-10-17 12:07:32,793   root 8,99,500
+ INFO 2022-10-17 12:07:32,793   root Petrol
+ INFO 2022-10-17 12:07:32,793   root <class 'OOPS_SUDH.car'>
+ INFO 2022-10-17 12:07:32,793   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:07:32,793   root Mahendra xuv500
+ INFO 2022-10-17 12:07:32,793   root ---------------------------------------
+ INFO 2022-10-17 12:07:32,793   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:07:32,793   root naveen Adep
+ INFO 2022-10-17 12:07:45,167   root #____________oops concept_________________
+ INFO 2022-10-17 12:07:45,167   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:07:45,167   root anuj
+ INFO 2022-10-17 12:07:45,167   root bandari
+ INFO 2022-10-17 12:07:45,167   root anuj@gmail.com
+ INFO 2022-10-17 12:07:45,167   root 1996
+ INFO 2022-10-17 12:07:45,168   root 5.9
+ INFO 2022-10-17 12:07:45,168   root 26
+ INFO 2022-10-17 12:07:45,168   root ______details of the car_____________________________
+ INFO 2022-10-17 12:07:45,168   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:07:45,168   root Force
+ INFO 2022-10-17 12:07:45,168   root Gurkha
+ INFO 2022-10-17 12:07:45,168   root 4WheelDrive
+ INFO 2022-10-17 12:07:45,168   root 14,00,00/-
+ INFO 2022-10-17 12:07:45,168   root TopEnd
+ INFO 2022-10-17 12:07:45,168   root _______information about suv car__________
+ INFO 2022-10-17 12:07:45,168   root Mahendra
+ INFO 2022-10-17 12:07:45,168   root xuv500
+ INFO 2022-10-17 12:07:45,168   root W10
+ INFO 2022-10-17 12:07:45,168   root 22,00,00/-
+ INFO 2022-10-17 12:07:45,168   root Diesel
+ INFO 2022-10-17 12:07:45,168   root _______information about suv car__________
+ INFO 2022-10-17 12:07:45,169   root Maruthi
+ INFO 2022-10-17 12:07:45,169   root ciaz
+ INFO 2022-10-17 12:07:45,169   root Alpha
+ INFO 2022-10-17 12:07:45,169   root 8,99,500
+ INFO 2022-10-17 12:07:45,169   root Petrol
+ INFO 2022-10-17 12:07:45,169   root <class 'utils.utils1.car'>
+ INFO 2022-10-17 12:07:45,169   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:07:45,169   root Mahendra xuv500
+ INFO 2022-10-17 12:07:45,169   root ---------------------------------------
+ INFO 2022-10-17 12:07:45,169   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:07:45,169   root naveen Adep
+ INFO 2022-10-17 12:07:45,170   root #____________oops concept_________________
+ INFO 2022-10-17 12:07:45,170   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:07:45,170   root anuj
+ INFO 2022-10-17 12:07:45,170   root bandari
+ INFO 2022-10-17 12:07:45,170   root anuj@gmail.com
+ INFO 2022-10-17 12:07:45,171   root 1996
+ INFO 2022-10-17 12:07:45,171   root 5.9
+ INFO 2022-10-17 12:07:45,171   root 26
+ INFO 2022-10-17 12:07:45,171   root ______details of the car_____________________________
+ INFO 2022-10-17 12:07:45,171   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:07:45,171   root Force
+ INFO 2022-10-17 12:07:45,171   root Gurkha
+ INFO 2022-10-17 12:07:45,171   root 4WheelDrive
+ INFO 2022-10-17 12:07:45,171   root 14,00,00/-
+ INFO 2022-10-17 12:07:45,171   root TopEnd
+ INFO 2022-10-17 12:07:45,171   root _______information about suv car__________
+ INFO 2022-10-17 12:07:45,171   root Mahendra
+ INFO 2022-10-17 12:07:45,171   root xuv500
+ INFO 2022-10-17 12:07:45,172   root W10
+ INFO 2022-10-17 12:07:45,172   root 22,00,00/-
+ INFO 2022-10-17 12:07:45,172   root Diesel
+ INFO 2022-10-17 12:07:45,172   root _______information about suv car__________
+ INFO 2022-10-17 12:07:45,172   root Maruthi
+ INFO 2022-10-17 12:07:45,172   root ciaz
+ INFO 2022-10-17 12:07:45,172   root Alpha
+ INFO 2022-10-17 12:07:45,172   root 8,99,500
+ INFO 2022-10-17 12:07:45,172   root Petrol
+ INFO 2022-10-17 12:07:45,172   root <class 'OOPS_SUDH.car'>
+ INFO 2022-10-17 12:07:45,172   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:07:45,172   root Mahendra xuv500
+ INFO 2022-10-17 12:07:45,172   root ---------------------------------------
+ INFO 2022-10-17 12:07:45,172   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:07:45,172   root naveen Adep
+ INFO 2022-10-17 12:09:12,338   root #____________oops concept_________________
+ INFO 2022-10-17 12:09:12,339   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:09:12,339   root anuj
+ INFO 2022-10-17 12:09:12,339   root bandari
+ INFO 2022-10-17 12:09:12,339   root anuj@gmail.com
+ INFO 2022-10-17 12:09:12,339   root 1996
+ INFO 2022-10-17 12:09:12,339   root 5.9
+ INFO 2022-10-17 12:09:12,339   root 26
+ INFO 2022-10-17 12:09:12,339   root ______details of the car_____________________________
+ INFO 2022-10-17 12:09:12,340   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:09:12,340   root Force
+ INFO 2022-10-17 12:09:12,340   root Gurkha
+ INFO 2022-10-17 12:09:12,340   root 4WheelDrive
+ INFO 2022-10-17 12:09:12,340   root 14,00,00/-
+ INFO 2022-10-17 12:09:12,340   root TopEnd
+ INFO 2022-10-17 12:09:12,340   root _______information about suv car__________
+ INFO 2022-10-17 12:09:12,340   root Mahendra
+ INFO 2022-10-17 12:09:12,340   root xuv500
+ INFO 2022-10-17 12:09:12,340   root W10
+ INFO 2022-10-17 12:09:12,340   root 22,00,00/-
+ INFO 2022-10-17 12:09:12,340   root Diesel
+ INFO 2022-10-17 12:09:12,341   root _______information about suv car__________
+ INFO 2022-10-17 12:09:12,341   root Maruthi
+ INFO 2022-10-17 12:09:12,341   root ciaz
+ INFO 2022-10-17 12:09:12,341   root Alpha
+ INFO 2022-10-17 12:09:12,341   root 8,99,500
+ INFO 2022-10-17 12:09:12,341   root Petrol
+ INFO 2022-10-17 12:09:12,341   root <class 'utils.utils1.car'>
+ INFO 2022-10-17 12:09:12,341   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:09:12,341   root Mahendra xuv500
+ INFO 2022-10-17 12:09:12,341   root ---------------------------------------
+ INFO 2022-10-17 12:09:12,341   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:09:12,341   root naveen Adep
+ INFO 2022-10-17 12:09:12,342   root #____________oops concept_________________
+ INFO 2022-10-17 12:09:12,343   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:09:12,343   root anuj
+ INFO 2022-10-17 12:09:12,343   root bandari
+ INFO 2022-10-17 12:09:12,343   root anuj@gmail.com
+ INFO 2022-10-17 12:09:12,343   root 1996
+ INFO 2022-10-17 12:09:12,343   root 5.9
+ INFO 2022-10-17 12:09:12,343   root 26
+ INFO 2022-10-17 12:09:12,343   root ______details of the car_____________________________
+ INFO 2022-10-17 12:09:12,344   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:09:12,344   root Force
+ INFO 2022-10-17 12:09:12,344   root Gurkha
+ INFO 2022-10-17 12:09:12,344   root 4WheelDrive
+ INFO 2022-10-17 12:09:12,345   root 14,00,00/-
+ INFO 2022-10-17 12:09:12,345   root TopEnd
+ INFO 2022-10-17 12:09:12,345   root _______information about suv car__________
+ INFO 2022-10-17 12:09:12,345   root Mahendra
+ INFO 2022-10-17 12:09:12,345   root xuv500
+ INFO 2022-10-17 12:09:12,345   root W10
+ INFO 2022-10-17 12:09:12,345   root 22,00,00/-
+ INFO 2022-10-17 12:09:12,345   root Diesel
+ INFO 2022-10-17 12:09:12,345   root _______information about suv car__________
+ INFO 2022-10-17 12:09:12,346   root Maruthi
+ INFO 2022-10-17 12:09:12,346   root ciaz
+ INFO 2022-10-17 12:09:12,346   root Alpha
+ INFO 2022-10-17 12:09:12,346   root 8,99,500
+ INFO 2022-10-17 12:09:12,346   root Petrol
+ INFO 2022-10-17 12:09:12,346   root <class 'OOPS_SUDH.car'>
+ INFO 2022-10-17 12:09:12,346   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:09:12,346   root Mahendra xuv500
+ INFO 2022-10-17 12:09:12,346   root ---------------------------------------
+ INFO 2022-10-17 12:09:12,346   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:09:12,346   root naveen Adep
+ INFO 2022-10-17 12:09:51,068   root #____________oops concept_________________
+ INFO 2022-10-17 12:09:51,068   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:09:51,068   root anuj
+ INFO 2022-10-17 12:09:51,068   root bandari
+ INFO 2022-10-17 12:09:51,068   root anuj@gmail.com
+ INFO 2022-10-17 12:09:51,068   root 1996
+ INFO 2022-10-17 12:09:51,068   root 5.9
+ INFO 2022-10-17 12:09:51,068   root 26
+ INFO 2022-10-17 12:09:51,068   root ______details of the car_____________________________
+ INFO 2022-10-17 12:09:51,068   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:09:51,068   root Force
+ INFO 2022-10-17 12:09:51,068   root Gurkha
+ INFO 2022-10-17 12:09:51,068   root 4WheelDrive
+ INFO 2022-10-17 12:09:51,068   root 14,00,00/-
+ INFO 2022-10-17 12:09:51,068   root TopEnd
+ INFO 2022-10-17 12:09:51,068   root _______information about suv car__________
+ INFO 2022-10-17 12:09:51,069   root Mahendra
+ INFO 2022-10-17 12:09:51,069   root xuv500
+ INFO 2022-10-17 12:09:51,069   root W10
+ INFO 2022-10-17 12:09:51,069   root 22,00,00/-
+ INFO 2022-10-17 12:09:51,069   root Diesel
+ INFO 2022-10-17 12:09:51,069   root _______information about suv car__________
+ INFO 2022-10-17 12:09:51,069   root Maruthi
+ INFO 2022-10-17 12:09:51,069   root ciaz
+ INFO 2022-10-17 12:09:51,069   root Alpha
+ INFO 2022-10-17 12:09:51,069   root 8,99,500
+ INFO 2022-10-17 12:09:51,069   root Petrol
+ INFO 2022-10-17 12:09:51,069   root <class 'utils.utils1.car'>
+ INFO 2022-10-17 12:09:51,069   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:09:51,069   root Mahendra xuv500
+ INFO 2022-10-17 12:09:51,069   root ---------------------------------------
+ INFO 2022-10-17 12:09:51,069   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:09:51,069   root naveen Adep
+ INFO 2022-10-17 12:09:51,071   root #____________oops concept_________________
+ INFO 2022-10-17 12:09:51,071   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:09:51,071   root anuj
+ INFO 2022-10-17 12:09:51,071   root bandari
+ INFO 2022-10-17 12:09:51,071   root anuj@gmail.com
+ INFO 2022-10-17 12:09:51,071   root 1996
+ INFO 2022-10-17 12:09:51,071   root 5.9
+ INFO 2022-10-17 12:09:51,071   root 26
+ INFO 2022-10-17 12:09:51,071   root ______details of the car_____________________________
+ INFO 2022-10-17 12:09:51,071   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:09:51,072   root Force
+ INFO 2022-10-17 12:09:51,072   root Gurkha
+ INFO 2022-10-17 12:09:51,072   root 4WheelDrive
+ INFO 2022-10-17 12:09:51,072   root 14,00,00/-
+ INFO 2022-10-17 12:09:51,072   root TopEnd
+ INFO 2022-10-17 12:09:51,072   root _______information about suv car__________
+ INFO 2022-10-17 12:09:51,072   root Mahendra
+ INFO 2022-10-17 12:09:51,072   root xuv500
+ INFO 2022-10-17 12:09:51,072   root W10
+ INFO 2022-10-17 12:09:51,072   root 22,00,00/-
+ INFO 2022-10-17 12:09:51,072   root Diesel
+ INFO 2022-10-17 12:09:51,072   root _______information about suv car__________
+ INFO 2022-10-17 12:09:51,072   root Maruthi
+ INFO 2022-10-17 12:09:51,072   root ciaz
+ INFO 2022-10-17 12:09:51,072   root Alpha
+ INFO 2022-10-17 12:09:51,072   root 8,99,500
+ INFO 2022-10-17 12:09:51,072   root Petrol
+ INFO 2022-10-17 12:09:51,073   root <class 'OOPS_SUDH.car'>
+ INFO 2022-10-17 12:09:51,073   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:09:51,073   root Mahendra xuv500
+ INFO 2022-10-17 12:09:51,073   root ---------------------------------------
+ INFO 2022-10-17 12:09:51,073   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:09:51,073   root naveen Adep
+ INFO 2022-10-17 12:10:12,726   root #____________oops concept_________________
+ INFO 2022-10-17 12:10:12,726   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:10:12,726   root anuj
+ INFO 2022-10-17 12:10:12,726   root bandari
+ INFO 2022-10-17 12:10:12,726   root anuj@gmail.com
+ INFO 2022-10-17 12:10:12,726   root 1996
+ INFO 2022-10-17 12:10:12,726   root 5.9
+ INFO 2022-10-17 12:10:12,726   root 26
+ INFO 2022-10-17 12:10:12,726   root ______details of the car_____________________________
+ INFO 2022-10-17 12:10:12,726   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:10:12,726   root Force
+ INFO 2022-10-17 12:10:12,727   root Gurkha
+ INFO 2022-10-17 12:10:12,727   root 4WheelDrive
+ INFO 2022-10-17 12:10:12,727   root 14,00,00/-
+ INFO 2022-10-17 12:10:12,727   root TopEnd
+ INFO 2022-10-17 12:10:12,727   root _______information about suv car__________
+ INFO 2022-10-17 12:10:12,727   root Mahendra
+ INFO 2022-10-17 12:10:12,727   root xuv500
+ INFO 2022-10-17 12:10:12,727   root W10
+ INFO 2022-10-17 12:10:12,727   root 22,00,00/-
+ INFO 2022-10-17 12:10:12,727   root Diesel
+ INFO 2022-10-17 12:10:12,727   root _______information about suv car__________
+ INFO 2022-10-17 12:10:12,727   root Maruthi
+ INFO 2022-10-17 12:10:12,727   root ciaz
+ INFO 2022-10-17 12:10:12,727   root Alpha
+ INFO 2022-10-17 12:10:12,727   root 8,99,500
+ INFO 2022-10-17 12:10:12,727   root Petrol
+ INFO 2022-10-17 12:10:12,727   root <class 'utils.utils1.car'>
+ INFO 2022-10-17 12:10:12,727   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:10:12,727   root Mahendra xuv500
+ INFO 2022-10-17 12:10:12,727   root ---------------------------------------
+ INFO 2022-10-17 12:10:12,728   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:10:12,728   root naveen Adep
+ INFO 2022-10-17 12:10:12,729   root #____________oops concept_________________
+ INFO 2022-10-17 12:10:12,729   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:10:12,729   root anuj
+ INFO 2022-10-17 12:10:12,729   root bandari
+ INFO 2022-10-17 12:10:12,729   root anuj@gmail.com
+ INFO 2022-10-17 12:10:12,729   root 1996
+ INFO 2022-10-17 12:10:12,729   root 5.9
+ INFO 2022-10-17 12:10:12,729   root 26
+ INFO 2022-10-17 12:10:12,729   root ______details of the car_____________________________
+ INFO 2022-10-17 12:10:12,729   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:10:12,729   root Force
+ INFO 2022-10-17 12:10:12,729   root Gurkha
+ INFO 2022-10-17 12:10:12,729   root 4WheelDrive
+ INFO 2022-10-17 12:10:12,729   root 14,00,00/-
+ INFO 2022-10-17 12:10:12,729   root TopEnd
+ INFO 2022-10-17 12:10:12,730   root _______information about suv car__________
+ INFO 2022-10-17 12:10:12,730   root Mahendra
+ INFO 2022-10-17 12:10:12,730   root xuv500
+ INFO 2022-10-17 12:10:12,730   root W10
+ INFO 2022-10-17 12:10:12,730   root 22,00,00/-
+ INFO 2022-10-17 12:10:12,730   root Diesel
+ INFO 2022-10-17 12:10:12,730   root _______information about suv car__________
+ INFO 2022-10-17 12:10:12,730   root Maruthi
+ INFO 2022-10-17 12:10:12,730   root ciaz
+ INFO 2022-10-17 12:10:12,730   root Alpha
+ INFO 2022-10-17 12:10:12,730   root 8,99,500
+ INFO 2022-10-17 12:10:12,730   root Petrol
+ INFO 2022-10-17 12:10:12,730   root <class 'OOPS_SUDH.car'>
+ INFO 2022-10-17 12:10:12,730   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:10:12,730   root Mahendra xuv500
+ INFO 2022-10-17 12:10:12,730   root ---------------------------------------
+ INFO 2022-10-17 12:10:12,730   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:10:12,730   root naveen Adep
+ INFO 2022-10-17 12:10:44,981   root #____________oops concept_________________
+ INFO 2022-10-17 12:10:44,982   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:10:44,982   root anuj
+ INFO 2022-10-17 12:10:44,982   root bandari
+ INFO 2022-10-17 12:10:44,982   root anuj@gmail.com
+ INFO 2022-10-17 12:10:44,982   root 1996
+ INFO 2022-10-17 12:10:44,982   root 5.9
+ INFO 2022-10-17 12:10:44,982   root 26
+ INFO 2022-10-17 12:10:44,982   root ______details of the car_____________________________
+ INFO 2022-10-17 12:10:44,982   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:10:44,982   root Force
+ INFO 2022-10-17 12:10:44,982   root Gurkha
+ INFO 2022-10-17 12:10:44,982   root 4WheelDrive
+ INFO 2022-10-17 12:10:44,982   root 14,00,00/-
+ INFO 2022-10-17 12:10:44,982   root TopEnd
+ INFO 2022-10-17 12:10:44,982   root _______information about suv car__________
+ INFO 2022-10-17 12:10:44,982   root Mahendra
+ INFO 2022-10-17 12:10:44,983   root xuv500
+ INFO 2022-10-17 12:10:44,983   root W10
+ INFO 2022-10-17 12:10:44,983   root 22,00,00/-
+ INFO 2022-10-17 12:10:44,983   root Diesel
+ INFO 2022-10-17 12:10:44,983   root _______information about suv car__________
+ INFO 2022-10-17 12:10:44,983   root Maruthi
+ INFO 2022-10-17 12:10:44,983   root ciaz
+ INFO 2022-10-17 12:10:44,983   root Alpha
+ INFO 2022-10-17 12:10:44,983   root 8,99,500
+ INFO 2022-10-17 12:10:44,983   root Petrol
+ INFO 2022-10-17 12:10:44,983   root <class 'utils.utils1.car'>
+ INFO 2022-10-17 12:10:44,983   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:10:44,983   root Mahendra xuv500
+ INFO 2022-10-17 12:10:44,983   root ---------------------------------------
+ INFO 2022-10-17 12:10:44,983   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:10:44,983   root naveen Adep
+ INFO 2022-10-17 12:10:44,984   root #____________oops concept_________________
+ INFO 2022-10-17 12:10:44,984   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:10:44,984   root anuj
+ INFO 2022-10-17 12:10:44,985   root bandari
+ INFO 2022-10-17 12:10:44,985   root anuj@gmail.com
+ INFO 2022-10-17 12:10:44,985   root 1996
+ INFO 2022-10-17 12:10:44,985   root 5.9
+ INFO 2022-10-17 12:10:44,985   root 26
+ INFO 2022-10-17 12:10:44,985   root ______details of the car_____________________________
+ INFO 2022-10-17 12:10:44,985   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:10:44,985   root Force
+ INFO 2022-10-17 12:10:44,985   root Gurkha
+ INFO 2022-10-17 12:10:44,985   root 4WheelDrive
+ INFO 2022-10-17 12:10:44,985   root 14,00,00/-
+ INFO 2022-10-17 12:10:44,985   root TopEnd
+ INFO 2022-10-17 12:10:44,985   root _______information about suv car__________
+ INFO 2022-10-17 12:10:44,985   root Mahendra
+ INFO 2022-10-17 12:10:44,985   root xuv500
+ INFO 2022-10-17 12:10:44,986   root W10
+ INFO 2022-10-17 12:10:44,986   root 22,00,00/-
+ INFO 2022-10-17 12:10:44,986   root Diesel
+ INFO 2022-10-17 12:10:44,986   root _______information about suv car__________
+ INFO 2022-10-17 12:10:44,986   root Maruthi
+ INFO 2022-10-17 12:10:44,986   root ciaz
+ INFO 2022-10-17 12:10:44,986   root Alpha
+ INFO 2022-10-17 12:10:44,986   root 8,99,500
+ INFO 2022-10-17 12:10:44,986   root Petrol
+ INFO 2022-10-17 12:10:44,986   root <class 'OOPS_SUDH.car'>
+ INFO 2022-10-17 12:10:44,987   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:10:44,987   root Mahendra xuv500
+ INFO 2022-10-17 12:10:44,987   root ---------------------------------------
+ INFO 2022-10-17 12:10:44,987   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:10:44,987   root naveen Adep
+ INFO 2022-10-17 12:11:31,912   root #____________oops concept_________________
+ INFO 2022-10-17 12:11:31,913   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:11:31,913   root anuj
+ INFO 2022-10-17 12:11:31,913   root bandari
+ INFO 2022-10-17 12:11:31,913   root anuj@gmail.com
+ INFO 2022-10-17 12:11:31,913   root 1996
+ INFO 2022-10-17 12:11:31,913   root 5.9
+ INFO 2022-10-17 12:11:31,913   root 26
+ INFO 2022-10-17 12:11:31,913   root ______details of the car_____________________________
+ INFO 2022-10-17 12:11:31,913   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:11:31,913   root Force
+ INFO 2022-10-17 12:11:31,913   root Gurkha
+ INFO 2022-10-17 12:11:31,913   root 4WheelDrive
+ INFO 2022-10-17 12:11:31,913   root 14,00,00/-
+ INFO 2022-10-17 12:11:31,913   root TopEnd
+ INFO 2022-10-17 12:11:31,913   root _______information about suv car__________
+ INFO 2022-10-17 12:11:31,913   root Mahendra
+ INFO 2022-10-17 12:11:31,913   root xuv500
+ INFO 2022-10-17 12:11:31,914   root W10
+ INFO 2022-10-17 12:11:31,914   root 22,00,00/-
+ INFO 2022-10-17 12:11:31,914   root Diesel
+ INFO 2022-10-17 12:11:31,914   root _______information about suv car__________
+ INFO 2022-10-17 12:11:31,914   root Maruthi
+ INFO 2022-10-17 12:11:31,914   root ciaz
+ INFO 2022-10-17 12:11:31,914   root Alpha
+ INFO 2022-10-17 12:11:31,914   root 8,99,500
+ INFO 2022-10-17 12:11:31,914   root Petrol
+ INFO 2022-10-17 12:11:31,914   root <class 'utils.utils1.car'>
+ INFO 2022-10-17 12:11:31,914   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:11:31,914   root Mahendra xuv500
+ INFO 2022-10-17 12:11:31,914   root ---------------------------------------
+ INFO 2022-10-17 12:11:31,914   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:11:31,914   root naveen Adep
+ INFO 2022-10-17 12:11:31,915   root #____________oops concept_________________
+ INFO 2022-10-17 12:11:31,915   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:11:31,915   root anuj
+ INFO 2022-10-17 12:11:31,915   root bandari
+ INFO 2022-10-17 12:11:31,915   root anuj@gmail.com
+ INFO 2022-10-17 12:11:31,915   root 1996
+ INFO 2022-10-17 12:11:31,916   root 5.9
+ INFO 2022-10-17 12:11:31,916   root 26
+ INFO 2022-10-17 12:11:31,916   root ______details of the car_____________________________
+ INFO 2022-10-17 12:11:31,916   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:11:31,916   root Force
+ INFO 2022-10-17 12:11:31,916   root Gurkha
+ INFO 2022-10-17 12:11:31,916   root 4WheelDrive
+ INFO 2022-10-17 12:11:31,916   root 14,00,00/-
+ INFO 2022-10-17 12:11:31,916   root TopEnd
+ INFO 2022-10-17 12:11:31,917   root _______information about suv car__________
+ INFO 2022-10-17 12:11:31,917   root Mahendra
+ INFO 2022-10-17 12:11:31,917   root xuv500
+ INFO 2022-10-17 12:11:31,917   root W10
+ INFO 2022-10-17 12:11:31,917   root 22,00,00/-
+ INFO 2022-10-17 12:11:31,917   root Diesel
+ INFO 2022-10-17 12:11:31,917   root _______information about suv car__________
+ INFO 2022-10-17 12:11:31,917   root Maruthi
+ INFO 2022-10-17 12:11:31,918   root ciaz
+ INFO 2022-10-17 12:11:31,918   root Alpha
+ INFO 2022-10-17 12:11:31,918   root 8,99,500
+ INFO 2022-10-17 12:11:31,918   root Petrol
+ INFO 2022-10-17 12:11:31,918   root <class 'OOPS_SUDH.car'>
+ INFO 2022-10-17 12:11:31,918   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:11:31,918   root Mahendra xuv500
+ INFO 2022-10-17 12:11:31,918   root ---------------------------------------
+ INFO 2022-10-17 12:11:31,918   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:11:31,918   root naveen Adep
+ INFO 2022-10-17 12:11:42,530   root #____________oops concept_________________
+ INFO 2022-10-17 12:11:42,530   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:11:42,531   root anuj
+ INFO 2022-10-17 12:11:42,531   root bandari
+ INFO 2022-10-17 12:11:42,531   root anuj@gmail.com
+ INFO 2022-10-17 12:11:42,531   root 1996
+ INFO 2022-10-17 12:11:42,531   root 5.9
+ INFO 2022-10-17 12:11:42,531   root 26
+ INFO 2022-10-17 12:11:42,531   root ______details of the car_____________________________
+ INFO 2022-10-17 12:11:42,531   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:11:42,531   root Force
+ INFO 2022-10-17 12:11:42,531   root Gurkha
+ INFO 2022-10-17 12:11:42,531   root 4WheelDrive
+ INFO 2022-10-17 12:11:42,531   root 14,00,00/-
+ INFO 2022-10-17 12:11:42,531   root TopEnd
+ INFO 2022-10-17 12:11:42,531   root _______information about suv car__________
+ INFO 2022-10-17 12:11:42,531   root Mahendra
+ INFO 2022-10-17 12:11:42,532   root xuv500
+ INFO 2022-10-17 12:11:42,532   root W10
+ INFO 2022-10-17 12:11:42,532   root 22,00,00/-
+ INFO 2022-10-17 12:11:42,532   root Diesel
+ INFO 2022-10-17 12:11:42,532   root _______information about suv car__________
+ INFO 2022-10-17 12:11:42,532   root Maruthi
+ INFO 2022-10-17 12:11:42,532   root ciaz
+ INFO 2022-10-17 12:11:42,532   root Alpha
+ INFO 2022-10-17 12:11:42,532   root 8,99,500
+ INFO 2022-10-17 12:11:42,532   root Petrol
+ INFO 2022-10-17 12:11:42,532   root <class 'utils.utils1.car'>
+ INFO 2022-10-17 12:11:42,532   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:11:42,532   root Mahendra xuv500
+ INFO 2022-10-17 12:11:42,532   root ---------------------------------------
+ INFO 2022-10-17 12:11:42,532   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:11:42,532   root naveen Adep
+ INFO 2022-10-17 12:11:42,533   root #____________oops concept_________________
+ INFO 2022-10-17 12:11:42,533   root init is the  initialization of a particular variable to a classes , is known as constructor
+ INFO 2022-10-17 12:11:42,534   root anuj
+ INFO 2022-10-17 12:11:42,534   root bandari
+ INFO 2022-10-17 12:11:42,534   root anuj@gmail.com
+ INFO 2022-10-17 12:11:42,534   root 1996
+ INFO 2022-10-17 12:11:42,534   root 5.9
+ INFO 2022-10-17 12:11:42,534   root 26
+ INFO 2022-10-17 12:11:42,534   root ______details of the car_____________________________
+ INFO 2022-10-17 12:11:42,534   root # here off_roader_var, suv_var, seden_var are the class variable
+ INFO 2022-10-17 12:11:42,534   root Force
+ INFO 2022-10-17 12:11:42,534   root Gurkha
+ INFO 2022-10-17 12:11:42,534   root 4WheelDrive
+ INFO 2022-10-17 12:11:42,534   root 14,00,00/-
+ INFO 2022-10-17 12:11:42,534   root TopEnd
+ INFO 2022-10-17 12:11:42,534   root _______information about suv car__________
+ INFO 2022-10-17 12:11:42,534   root Mahendra
+ INFO 2022-10-17 12:11:42,534   root xuv500
+ INFO 2022-10-17 12:11:42,534   root W10
+ INFO 2022-10-17 12:11:42,534   root 22,00,00/-
+ INFO 2022-10-17 12:11:42,535   root Diesel
+ INFO 2022-10-17 12:11:42,535   root _______information about suv car__________
+ INFO 2022-10-17 12:11:42,535   root Maruthi
+ INFO 2022-10-17 12:11:42,535   root ciaz
+ INFO 2022-10-17 12:11:42,535   root Alpha
+ INFO 2022-10-17 12:11:42,535   root 8,99,500
+ INFO 2022-10-17 12:11:42,535   root Petrol
+ INFO 2022-10-17 12:11:42,535   root <class 'OOPS_SUDH.car'>
+ INFO 2022-10-17 12:11:42,535   root #______Here we are performing concatenation operation_________
+ INFO 2022-10-17 12:11:42,535   root Mahendra xuv500
+ INFO 2022-10-17 12:11:42,535   root ---------------------------------------
+ INFO 2022-10-17 12:11:42,535   root This is the basic information for concatenation operation
+ INFO 2022-10-17 12:11:42,535   root naveen Adep
