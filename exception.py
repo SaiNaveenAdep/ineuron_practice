@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 a = int(input("enter first number"))
 b = int(input("enter second number"))
 try:
@@ -89,7 +89,7 @@ while True:
 
 # EXCEPTION HANDLING BY SUDHANSHU SIR!!!!!!!
 
-=======
+
 a = int(input("enter first number"))
 b = int(input("enter second number"))
 try:
@@ -180,5 +180,5 @@ while True:
 
 # EXCEPTION HANDLING BY SUDHANSHU SIR!!!!!!!
 
->>>>>>> origin/main
+
 print("# EXCEPTION HANDLING BY SUDHANSHU SIR!!!!!!!----------REVISION----------------------------")

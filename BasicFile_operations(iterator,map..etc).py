@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 '''Basic file operation, Generator,map, Reduce, Filter'''
 
 l = [1,2,3,4,5,6,7]
@@ -289,7 +289,6 @@ def check_even(n):
         return True
 
 print(list(filter(check_even,l)))
-=======
 '''Basic file operation, Generator,map, Reduce, Filter'''
 
 l = [1,2,3,4,5,6,7]
@@ -580,4 +579,4 @@ def check_even(n):
         return True
 
 print(list(filter(check_even,l)))
->>>>>>> origin/main
+
