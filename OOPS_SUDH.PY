@@ -4,7 +4,7 @@ logging.basicConfig(filename= "oopsTest.log", level = logging.INFO , format=' %(
 #___________________OOPS_____________________________
 
 print('@__________________OOPS_______________________@')
-logging.info("#____________oops concept_________________")
+logging.info("#____________oops concept__________________________________________")
 
 class Person:
     pass
