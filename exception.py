@@ -97,7 +97,7 @@ try:
     print(c)
 except ZeroDivisionError:
     print("b should not be a zero")
-print("-----------------------------------------------------------------------")
+print("----------------------------------------------------------_________-------------")
 
 a = int(input("enter first number"))
 b = int(input("enter second number"))
