@@ -14,4 +14,4 @@ def test():
 if __name__ =="__main__":
     app.run(port=5002)
 
- git branch --set-upstream-to=origin/main main
+ git branch --set-upstream-to=origin/main master
